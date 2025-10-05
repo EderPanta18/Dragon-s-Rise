@@ -1,4 +1,4 @@
-# Draon's Rise - Prototipo de Videojuego 2D
+# Draon's Rise - Prototipo de Videojuego 2D (y las capturas de pantalla?)
 
 **Lenguaje:** Java  
 **Licencia:** GPL v3  
